@@ -1,0 +1,19 @@
+{
+  "permissions": {
+    "ask": [
+      "mcp__alpaca__place_stock_order",
+      "mcp__alpaca__cancel_order_by_id",
+      "mcp__alpaca__replace_order_by_id",
+      "mcp__alpaca__close_position",
+      "mcp__Robinhood__place_equity_order",
+      "mcp__Robinhood__place_advanced_order",
+      "mcp__Robinhood__place_option_order",
+      "mcp__Robinhood__place_crypto_order",
+      "mcp__Robinhood__cancel_equity_order",
+      "mcp__Robinhood__cancel_advanced_order",
+      "mcp__Robinhood__cancel_option_order",
+      "mcp__Robinhood__cancel_crypto_order",
+      "mcp__Robinhood__exercise_option"
+    ]
+  }
+}
